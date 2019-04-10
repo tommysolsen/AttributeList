@@ -5,8 +5,8 @@
     "license": "Beerware",
     "authors": [
         {
-            "name": "Erik Djupvik",
-            "email": "erikdju@gmail.com"
+            "name": "Johan Vaage",
+            "email": "jovaage@gmail.com"
         }
     ],
     "minimum-stability": "dev"
