@@ -1,0 +1,13 @@
+{
+    "name": "apility/attribute-list",
+    "description": "A helper class for generating attribute lists.",
+    "type": "library",
+    "license": "Beerware",
+    "authors": [
+        {
+            "name": "Erik Djupvik",
+            "email": "erikdju@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
